@@ -42,7 +42,7 @@ Identifying the restaurant with the highest votes.
 
 Code Execution
 
-Run the following command to execute the script:
+Process to run the Script:
 
 Install Jupyter extension in VS Code.
 Open app.ipynb in VS Code.
